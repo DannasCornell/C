@@ -2,21 +2,21 @@
 #include <stdlib.h>
 #include <math.h>
 
-float a,b,c,d, e;
-int a1, b1;
+float a,b,c,d, e;// declarando variables 
+int a1, b1;// declarando variables 
 int main()
 {
-	system("clear");
+	system("clear");//limpiar la pantalla
 	printf("Dame el primer numero\n");
-	scanf("%f",&a);
+	scanf("%f",&a);//va a entrar un flotando y se guarda en la direccion de memoria
 	a1 = a;
 	printf("Dame el segundo numero\n");
-	scanf("%f",&b);
+	scanf("%f",&b);//contraparte de imprimir 
 	b1 = b;
 
 	printf("Suma\n");
 		c=a+b; // Suma o adiciÃ³n
-		printf("\t%f + %f = %f\n",a,b,c);
+		printf("\t%f + %f = %f\n",a,b,c);// la t es de tabulacion 
 	printf("Resta\n");
 		c=a-b; // Resta o diferencia
 		printf("\t%f - %f = %f\n",a,b,c);
