@@ -1,11 +1,7 @@
 #include<stdio.h> //stdio -> Standard Input/Output
 
 int main(){
-	/*My first
-	 * Program
-	 * in C
-	 */
-	printf("Hello World!");
+	printf("Hello World! im Alejandro");
 	//Comment
 	return 0;
 }
