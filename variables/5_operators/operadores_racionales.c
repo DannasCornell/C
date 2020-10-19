@@ -2,13 +2,13 @@
 #include <stdlib.h> // Archivo de cabecera para subrutinas de utilidades
 int main()
 { // Inicio
- system("clear"); // Limpia pantalla
+ system("cls"); // Limpia pantalla
  printf("2 == 2 devuelve %d que implica verdadero\n",2==2);
  printf("'A' == 'a' devuelve %d que implica falso\n",'A'=='a');
- printf("2 != 2 devuelve %d que implica falso\n",2!=2);
+ printf("2 != 2 devuelve %d que implica falso\n",2!=2);// si se agrega != quiere decir que es diferente
  printf("'A' != 'a' devuelve %d que implica verdadero\n",'A'!='a');
- printf("'a' > 'b' devuelve %d que implica verdadero\n",'a'>'Z');
- printf("'b' > 'a' devuelve %d que implica falso\n",'Z'>'a');
+ printf("'a' > 'b' devuelve %d que implica falso\n",'a'>'Z');
+ printf("'b' > 'a' devuelve %d que implica verdadero\n",'Z'>'a');
  printf("'1' >= '1' devuelve %d que implica verdadero\n",'1'>='1');
  printf(" 4 >= 5 devuelve %d que implica falso\n",4>=5);
  printf("'B' < 'A' devuelve %d que implica verdadero\n",'a'>'Z');
