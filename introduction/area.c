@@ -1,7 +1,8 @@
-#include<stdio.h>
+#include<stdio.h> //Input Output
 #include<math.h>
-#define PI 3.1416
 
+#define PI 3.1416
+ 
 int main(){
 	float area, radio;
 	radio = 5;

@@ -16,7 +16,7 @@ int main()
 
 	printf("Suma\n");
 		c=a+b; // Suma o adiciÃ³n
-		printf("\t%f + %f = %f\n",a,b,c);
+		printf("\t%0.2f + %0.2f = %0.2f\n",a,b,c);
 	printf("Resta\n");
 		c=a-b; // Resta o diferencia
 		printf("\t%f - %f = %f\n",a,b,c);
@@ -37,7 +37,7 @@ int main()
 		printf("\tLa RaÃ­z cuadrada de %f es %f\n",b,c);
 	printf("Potencia\n");
 		c = pow(b, a); //Potencia
-	printf("\tEl nÃºmero %f elevado a la potencia %f es %f\n",b,a,c);
+	printf("\tEl nÃºmero %f elevado a la potencia %0.2f es %f\n",b,a,c);
 	
 	printf("Resultado del reto viral de Agosto\n");
 
