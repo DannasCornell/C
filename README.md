@@ -7,7 +7,7 @@
 ### [5. Pointers ](https://github.com/taller-programacion/C/tree/master/pointer)
 ### [6. Dynamic memory allocation](https://github.com/taller-programacion/C/tree/master/memory)
 ### [7. Files](https://github.com/taller-programacion/C/tree/master/files)
-
+### [8. Ejercicios](https://github.com/taller-programacion/C/tree/master/files)
 # [MIT License](https://github.com/taller-programacion/C/blob/master/LICENSE)
 
 Copyright (c) 2019 [Daniel de J. Rosales M.](https://dannascornell.github.io/)
