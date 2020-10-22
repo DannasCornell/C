@@ -16,8 +16,10 @@ printf("La longitud de la circunferencia vale %0.2f\n", l);
 printf("El Area del circulo vale %0.2f\n", a);
 
 p= pow(PI, r);
-printf("\t%0.2f elevado a la potencia \t%0.2i vale = %0.2f\n", PI, r, p);
-printf("\t%0.2i elevado a la potencia \t%0.2f vale = %0.2f\n", r, PI, p); 
+printf("\t%0.2f elevado a la potencia %0.2i vale %0.2f\n", PI, r, p);
+p= pow(r, PI);
+printf("\t%0.2i elevado a la potencia %0.2f vale %0.2f\n", r, PI, p); 
 return 0;
 }
+
 
