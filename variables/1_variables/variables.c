@@ -10,7 +10,7 @@ int main()
 	long double doble_extendido=12.8L;
 	float notacion_cientifica=4.5e-4;
 	char caracter='A';
-	char cadena[10]="Lenguaje C";
+	char cadena[11]="Lenguaje C";
 	
 	printf("int:%d\n", entero); 
 	printf("Short int:%hd\n", entero_corto); 

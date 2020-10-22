@@ -44,7 +44,7 @@ int main()
 	 printf("\nPotencia\n");
 	 c=pow (a , b); 
 	 printf("\t %0.2f elevado a la potencia / %0.2f= %0.2f\n" ,a , b, c);
-	 c=pow (b , a); 
+	 c=pow (a , a); 
 	 printf("\t %0.2f elevado a la potencia / %0.2f= %0.2f\n" ,a , b, c);
 	 
 	 
@@ -52,7 +52,5 @@ int main()
 	return 0; 
 	}
 		
-
-
 
 
