@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    int ale.c
-    float resultado
-        resultado = dias * (24 * 60* 60*;
-        printf("En %d dias hay %f segundos.", dias, resultado);  
+    int dias;
+    float resultado;
+    printf("ingresa un numero de dias para calcular los segundos que tiene: ");
+    scanf("%d", &dias);
+        resultado = dias * (24 * 60 * 60);
+        printf("\tEn %d dias hay %0.2f segundos.\n", dias, resultado);  
     return;
 }
+
+
