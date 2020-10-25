@@ -8,6 +8,7 @@
 ### [6. Pointers ](https://github.com/taller-programacion/C/tree/master/pointer)
 ### [7. Dynamic memory allocation](https://github.com/taller-programacion/C/tree/master/memory)
 ### [8. Files](https://github.com/taller-programacion/C/tree/master/files)
+### [9. Excercise](https://github.com/taller-programacion/C/tree/master/excercise)
 
 # [MIT License](https://github.com/taller-programacion/C/blob/master/LICENSE)
 
